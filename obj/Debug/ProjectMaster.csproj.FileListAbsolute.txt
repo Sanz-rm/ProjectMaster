@@ -1,0 +1,1156 @@
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\OneDrive\Documentos\GitHub\TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\GITHUB - TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.pdb
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.exe
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectMaster.pdb
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.exe
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\ProjectMaster.pdb
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Memory.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\ZstdSharp.dll
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\BCrypt.Net.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\Google.Protobuf.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\MySql.Data.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Buffers.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Memory.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\workspaceVisual\GITHUB_TFG\TFG\ProjectMaster\obj\Debug\ProjectM.93EA84B7.Up2Date
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\Downloads\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster1\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.pdb
+E:\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+E:\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.exe
+E:\workspaceVisual\ProjectMaster\bin\Debug\ProjectMaster.pdb
+E:\workspaceVisual\ProjectMaster\bin\Debug\BCrypt.Net.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\MySql.Data.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Buffers.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Memory.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\ZstdSharp.dll
+E:\workspaceVisual\ProjectMaster\bin\Debug\BCrypt.Net.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+E:\workspaceVisual\ProjectMaster\bin\Debug\Google.Protobuf.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\MySql.Data.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Buffers.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Memory.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\workspaceVisual\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectM.93EA84B7.Up2Date
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.exe
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster 2\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\OneDrive\Escritorio\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectM.93EA84B7.Up2Date
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster.2\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster (1)\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+E:\workspaceVisual\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectM.93EA84B7.Up2Date
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\Esther\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectM.93EA84B7.Up2Date
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.pdb
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\blanc\Downloads\ProjectMaster\ProjectMaster\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\ProjectMaster.exe.config
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\ProjectMaster.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\BCrypt.Net.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\MySql.Data.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Buffers.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Memory.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\ZstdSharp.dll
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\BCrypt.Net.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\MySql.Data.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Buffers.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Memory.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanzr\Downloads\ProjectMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.AssemblyReference.cache
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmAgregarAmigo.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Amigos.FrmChat.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.FrmInicio.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Loggin.FrmRegistro.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmNotificacion.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Perfil.FrmVerPerfil.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmArea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Principal.FrmPrincipal.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmCrearProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Proyecto.FrmEditarProyecto.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmCrearTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Formulario.Tarea.FrmEditarTarea.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.Properties.Resources.resources
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.GenerateResource.cache
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.CoreCompileInputs.cache
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.csproj.CopyComplete
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.exe
+C:\Users\sanzr\Downloads\ProjectMaster\obj\Debug\ProjectMaster.pdb
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.CargarApp.resources
+E:\workspaceVisual\ProjectMaster\obj\Debug\ProjectMaster.DiseñoMessageBox.MensajeInicio.resources

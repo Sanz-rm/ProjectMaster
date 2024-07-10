@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{381DD36C-47EE-405C-B1D9-E5531B0D2298}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjectMaster</RootNamespace>
+    <AssemblyName>ProjectMaster</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
+      <HintPath>packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.4.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conection\Conexion.cs" />
+    <Compile Include="DAO\ProyectoDAO.cs" />
+    <Compile Include="DAO\TareaDAO.cs" />
+    <Compile Include="DAO\UsuarioDAO.cs" />
+    <Compile Include="DiseñoMessageBox\CargarApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiseñoMessageBox\CargarApp.Designer.cs">
+      <DependentUpon>CargarApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiseñoMessageBox\MensajeInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiseñoMessageBox\MensajeInicio.Designer.cs">
+      <DependentUpon>MensajeInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Amigos\FrmAgregarAmigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Amigos\FrmAgregarAmigo.Designer.cs">
+      <DependentUpon>FrmAgregarAmigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmChat.Designer.cs">
+      <DependentUpon>FrmChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Loggin\FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Loggin\FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Loggin\FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Loggin\FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmNotificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmNotificacion.Designer.cs">
+      <DependentUpon>FrmNotificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmPerfil.Designer.cs">
+      <DependentUpon>FrmPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmVerPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Perfil\FrmVerPerfil.Designer.cs">
+      <DependentUpon>FrmVerPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Principal\FrmArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Principal\FrmArea.Designer.cs">
+      <DependentUpon>FrmArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Principal\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Principal\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Proyecto\FrmCrearProyecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Proyecto\FrmCrearProyecto.Designer.cs">
+      <DependentUpon>FrmCrearProyecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Proyecto\FrmEditarProyecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Proyecto\FrmEditarProyecto.Designer.cs">
+      <DependentUpon>FrmEditarProyecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Tarea\FrmCrearTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Tarea\FrmCrearTarea.Designer.cs">
+      <DependentUpon>FrmCrearTarea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\Tarea\FrmEditarTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Tarea\FrmEditarTarea.Designer.cs">
+      <DependentUpon>FrmEditarTarea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\Proyecto.cs" />
+    <Compile Include="Modelo\Tarea.cs" />
+    <Compile Include="Modelo\Usuario.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DiseñoMessageBox\CargarApp.resx">
+      <DependentUpon>CargarApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiseñoMessageBox\MensajeInicio.resx">
+      <DependentUpon>MensajeInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Amigos\FrmAgregarAmigo.resx">
+      <DependentUpon>FrmAgregarAmigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Perfil\FrmChat.resx">
+      <DependentUpon>FrmChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Loggin\FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Loggin\FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Perfil\FrmNotificacion.resx">
+      <DependentUpon>FrmNotificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Perfil\FrmPerfil.resx">
+      <DependentUpon>FrmPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Perfil\FrmVerPerfil.resx">
+      <DependentUpon>FrmVerPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Principal\FrmArea.resx">
+      <DependentUpon>FrmArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Principal\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Proyecto\FrmCrearProyecto.resx">
+      <DependentUpon>FrmCrearProyecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Proyecto\FrmEditarProyecto.resx">
+      <DependentUpon>FrmEditarProyecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Tarea\FrmCrearTarea.resx">
+      <DependentUpon>FrmCrearTarea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\Tarea\FrmEditarTarea.resx">
+      <DependentUpon>FrmEditarTarea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_titulo.png" />
+    <None Include="Resources\logo_carga.png" />
+    <None Include="Resources\logo_area.png" />
+    <None Include="Resources\Avatares\avatar1_pequeño.png" />
+    <None Include="Resources\Avatares\avatar2_grande.png" />
+    <None Include="Resources\Avatares\avatar2_pequeño.png" />
+    <None Include="Resources\Avatares\avatar3_grande.png" />
+    <None Include="Resources\Avatares\avatar3_pequeño.png" />
+    <None Include="Resources\Avatares\avatar4_grande.png" />
+    <None Include="Resources\Avatares\avatar4_pequeño.png" />
+    <None Include="Resources\Avatares\avatar5_grande.png" />
+    <None Include="Resources\Avatares\avatar5_pequeño.png" />
+    <None Include="Resources\Avatares\avatar6_grande.png" />
+    <None Include="Resources\Avatares\avatar6_pequeño.png" />
+    <None Include="Resources\Avatares\avatar0_grande.png" />
+    <None Include="Resources\Avatares\avatar0_pequeño.png" />
+    <None Include="Resources\Avatares\avatar1_grande.png" />
+    <None Include="Resources\Iconos_botones\boton-de-encendido-apagado.png" />
+    <None Include="Resources\Iconos_botones\anadir-amigo.png" />
+    <None Include="Resources\Iconos_botones\nuevo-proyecto.png" />
+    <None Include="Resources\Iconos_botones\comienzo.png" />
+    <None Include="Resources\Iconos_botones\lapiz-de-grafito.png" />
+    <None Include="Resources\Iconos_botones\linea-de-meta.png" />
+    <None Include="Resources\Iconos_botones\portapapeles.png" />
+    <None Include="Resources\Iconos_botones\cerrar-sesion.png" />
+    <None Include="Resources\Iconos_botones\papelera-de-reciclaje.png" />
+    <None Include="Resources\Iconos_botones\pincel-de-arte.png" />
+    <None Include="Resources\Iconos_botones\correo-electronico.png" />
+    <None Include="Resources\Iconos_botones\charla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confidencial.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

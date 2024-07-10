@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectMaster\\ProjectMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|d:\\projectmaster\\projectmaster\\formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\tarea\\frmeditartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\tarea\\frmeditartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\tarea\\frmeditartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\tarea\\frmeditartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmChat.cs",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Perfil\\FrmChat.cs",
+              "RelativeDocumentMoniker": "Formulario\\Perfil\\FrmChat.cs",
+              "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Perfil\\FrmChat.cs",
+              "RelativeToolTip": "Formulario\\Perfil\\FrmChat.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAmwJcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:36:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmChat.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Perfil\\FrmChat.cs",
+              "RelativeDocumentMoniker": "Formulario\\Perfil\\FrmChat.cs",
+              "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Perfil\\FrmChat.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Perfil\\FrmChat.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:36:45.596Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEditarProyecto.cs",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "RelativeDocumentMoniker": "Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "RelativeToolTip": "Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAwDABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:57:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEditarProyecto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "RelativeDocumentMoniker": "Formulario\\Proyecto\\FrmEditarProyecto.cs",
+              "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Proyecto\\FrmEditarProyecto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Proyecto\\FrmEditarProyecto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:57:31.182Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEditarTarea.cs",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Tarea\\FrmEditarTarea.cs",
+              "RelativeDocumentMoniker": "Formulario\\Tarea\\FrmEditarTarea.cs",
+              "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Tarea\\FrmEditarTarea.cs",
+              "RelativeToolTip": "Formulario\\Tarea\\FrmEditarTarea.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwHIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:44:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEditarTarea.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Tarea\\FrmEditarTarea.cs",
+              "RelativeDocumentMoniker": "Formulario\\Tarea\\FrmEditarTarea.cs",
+              "ToolTip": "E:\\workspaceVisual\\ProjectMaster\\Formulario\\Tarea\\FrmEditarTarea.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:44:49.468Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
