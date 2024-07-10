@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\ProjectMaster\\ProjectMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|d:\\projectmaster\\projectmaster\\formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\proyecto\\frmeditarproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|d:\\projectmaster\\projectmaster\\formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|D:\\ProjectMaster\\ProjectMaster\\formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{381DD36C-47EE-405C-B1D9-E5531B0D2298}|ProjectMaster.csproj|solutionrelative:formulario\\perfil\\frmchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Formulario\\Perfil\\FrmChat.cs",
               "ViewState": "AQIAAH0AAAAAAAAAAAAmwJcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:36:58.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T12:36:58.971Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "ToolTip": "D:\\ProjectMaster\\ProjectMaster\\Formulario\\Perfil\\FrmChat.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formulario\\Perfil\\FrmChat.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:36:45.596Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-17T12:36:45.596Z"
             },
             {
               "$type": "Document",
